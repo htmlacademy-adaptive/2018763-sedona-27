@@ -1,7 +1,7 @@
 # Личный проект «Седона» 
 
 * Студент: [Тимофей Павлухин](https://up.htmlacademy.ru/adaptive/27/user/2018763).
-* Наставник: `Олег Цыганов`.
+* Наставник: [Олег Цыганов](https://htmlacademy.ru/profile/olegtsyganov).
 
 ---
 
